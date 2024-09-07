@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hediredel.github.io/sitemap.html.gz
+Sitemap: https://hediredel.github.io/app/sitemap.html.gz
+Sitemap: https://hediredel.github.io/assets/sitemap.html.gz
+Sitemap: https://hediredel.github.io/css/sitemap.html.gz
+Sitemap: https://hediredel.github.io/includes/sitemap.html.gz
+Sitemap: https://hediredel.github.io/item/sitemap.html.gz
+Sitemap: https://hediredel.github.io/src/sitemap.html.gz
